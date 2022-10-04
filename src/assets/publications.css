@@ -1,0 +1,11 @@
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.flex-container>div {
+    width: 270px;
+    margin: 10px;
+    text-align: left;
+    font-size: 12px;
+}

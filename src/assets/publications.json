@@ -1,0 +1,161 @@
+{
+    "header": {
+        "name": "uneclac cepalstat api",
+        "version": "1.9.13",
+        "success": true,
+        "machine": "03",
+        "context": "public",
+        "code": 200,
+        "message": "",
+        "timestamp": 1662557138
+    },
+    "body": {
+        "publications": [{
+                "title": "Nuevas realidades, nuevas demandas: desafíos para la medición de la identidad de género en el censo de población",
+                "description": "",
+                "date": "2019-11-13",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/45765/3/S1900856_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/45765"
+            },
+            {
+                "title": "Uso de variables sintomáticas para estimar la distribución espacial de la población",
+                "description": "",
+                "date": "2001-03",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/12695/3/NP71-02_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/12695"
+            },
+            {
+                "title": "Relación del crecimiento y distribución de la población con el desarrollo y el medio ambiente",
+                "description": "",
+                "date": "1998-11",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/3147/5/S9800502_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/3147"
+            },
+            {
+                "title": "Distribución espacial de la población, urbanización y ciudades intermedias: hechos en su contexto",
+                "description": "",
+                "date": "1998-06",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/31025/5/S9800066_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/31025"
+            },
+            {
+                "title": "XV Curso de Análisis Demográfico para el Desarrollo; materia: migración, distribución espacial de la población y urbanización",
+                "description": "Los materiales correspondientes al XV Curso Regional de Análisis Demográfico para el Desarrollo, impartido en 1992, incluyen el programa analítico de las asignaturas de migración, distribución espacial de la población y urbanización; evaluación y estimaciones demográficas; proyecciones y estimaciones de población; tópicos de población y desarrollo, así como las guías de los laboratorios de microcomputadoras.",
+                "date": "1992",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/21248/3/D-17360.00_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/21248"
+            },
+            {
+                "title": "Distribución de la población, medio ambiente y desarrollo: estrategias relevantes",
+                "description": "Presenta algunas condiciones, ideas y conceptos que pudieran servir para el delineamiento de caminos viables para alcanzar un desarrollo sostenible en la región.",
+                "date": "1990-07-12",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/29646/5/S9060843_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/29646"
+            },
+            {
+                "title": "América Latina y el Caribe: tendencias de la urbanización y cambios en la distribución de la población según el tamaño de los centros urbanos, 1950-1980",
+                "description": "",
+                "date": "1986-02",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/20921/3/D-12966.01_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/20921"
+            },
+            {
+                "title": "Representaciones cartográficas de la distribución espacial de la población: una ejemplificación",
+                "description": "",
+                "date": "1984",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/32540/3/D-10868.00_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/32540"
+            },
+            {
+                "title": "América Latina: distribución relativa de la población en edad escolar, en tres grandes grupos de edades, por  países, 1980",
+                "description": "",
+                "date": "1982-07",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/39477/3/S8200756.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/39477"
+            },
+            {
+                "title": "Distribución espacial de la población en la América Latina: determinantes y consecuencias",
+                "description": "",
+                "date": "1980-04",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/12622/3/NP22-01_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/12622"
+            },
+            {
+                "title": "Distribución de la población en las principales ciudades latinoamericanas en los años 1950, 1960 y 1970: una aplicación de la regla del rango-tamaño",
+                "description": "",
+                "date": "1978-04",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/12604/3/NP16-04_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/12604"
+            },
+            {
+                "title": "Estrategias de crecimiento y la distribución espacial de la población",
+                "description": "",
+                "date": "1978",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/25984/5/S7800542_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/25984"
+            },
+            {
+                "title": "Uruguay: atlas de distribucion espacial de la poblacion",
+                "description": "El Atlas de Distribucion Espacial de la Poblacion del Uruguay se basa en la informacion de los censos de poblacion y agropecuarios de las decadas del 50 al 70. Incluye 6 mapas y 8 cuadros descriptivos de la distribucion geografica, la poblacion total, la superficie y densidad por divisiones administrativas mayores entre 1950-1963 y 1950-1970.",
+                "date": "1976-06",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/32481/3/D-08632.00_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/32481"
+            },
+            {
+                "title": "El desarrollo y la distribución espacial de la población en América Latina",
+                "description": "",
+                "date": "1975-04",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/12552/3/NP7-03_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/12552"
+            },
+            {
+                "title": "Guatemala: evolución de la composición de la población y su distribución espacial",
+                "description": "",
+                "date": "1973-12",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/20583/3/D-05064.01_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/20583"
+            },
+            {
+                "title": "República de Venezuela: distribución geográfica de la población y migraciones internas",
+                "description": "",
+                "date": "1972-08",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/7573/5/S7200540_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/7573"
+            },
+            {
+                "title": "Distribucion de la poblacion economicamente activa en los paises de America Latina 1940-1960",
+                "description": "",
+                "date": "1971-09",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/31975/3/D-00401.00_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/31975"
+            },
+            {
+                "title": "Distribucion espacial de las poblaciones",
+                "description": "",
+                "date": "1971-02",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/7944/5/S7100754_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/7944"
+            },
+            {
+                "title": "Distribución de la población en el Istmo Centroamericano",
+                "description": "",
+                "date": "1968-08-01",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/25015/5/S6800262_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/25015"
+            },
+            {
+                "title": "Tendencias de la distribución de la población urbana de la América Latina",
+                "description": "",
+                "date": "1965",
+                "thumbnail": "https://repositorio.cepal.org/bitstream/11362/7623/5/S6500584_es.pdf.jpg",
+                "url": "https://repositorio.cepal.org/handle/11362/7623"
+            }
+        ]
+    },
+    "footer": {
+        "records": 20,
+        "elapsed_time": "0.03503",
+        "ip": "10.0.36.166",
+        "query": "http://api-cepalstat.cepal.org/cepalstat/api/v1/indicator/1/publications?lang=es&app=portal"
+    }
+}
